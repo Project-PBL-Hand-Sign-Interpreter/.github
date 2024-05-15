@@ -1,4 +1,4 @@
-# Palomade
+# Handsify
 
 <p align="justify">     Indonesia is one of the world's major producers and exporters of palm oil. The Palm Oil industry in Indonesia produces a large amount of palm oil that is used for domestic purposes and exported to international markets. Palm oil is used in various food products, cosmetics, and household products. The requirement in this industry is significant. There is a need for sorting methods to be used, such as the use of conveyors that separate fruits based on certain criteria. The results show that the palm fruit ripeness measurement methods used can vary depending on production objectives, geographical location, and available resources. The accuracy of palm fruit maturity measurement is critical to optimize the harvesting process, reduce yield losses, and improve palm oil quality. Therefore, we present <b>Palomade</b> as a palm fruit maturity sorting application which makes it easier for farmers or palm oil processing plant owners to select the quality of palm fruit. </p>
 
