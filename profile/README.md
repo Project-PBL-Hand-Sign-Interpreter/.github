@@ -4,9 +4,9 @@
 
 # Introduction 👋
 
-Hi everyone! We are from CH2-PS324. We consist of 6 people and these are my team members:
+Hi everyone! We are from Handsify. We consist of 4 people and these are my team members:
 
-| NIM | Name | Learning Path | University |LinkedIn |
+| NIM | Name | University | LinkedIn |
 | ---      | ---       | ---       | ---       | ---       |
 | 2107412061 | Alfian Fakhrudin | Politeknik Negeri Jakarta | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfian-fakhrudin-9285b5216/) |
 | 2107412033  | Benaya Adi Sahat | Politeknik Negeri Jakarta | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkanantadhimas/) |
