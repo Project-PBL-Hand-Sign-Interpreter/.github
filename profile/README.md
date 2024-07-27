@@ -17,11 +17,9 @@ Hi everyone! We are from Handsify. We consist of 4 people and these are my team 
 
 # App Key Features (Preview)📱
 **1. Login and Register**
-
+![image](https://github.com/user-attachments/assets/5d193180-1261-43dd-bfb4-3a163388dd90)
 <p align="justify"> Dashboard User Interface</p>
 
 <p align="justify">
-  ![image](https://github.com/user-attachments/assets/d1f67e94-25aa-4e94-a391-021384869b8c)
-  ![image](https://github.com/user-attachments/assets/5d193180-1261-43dd-bfb4-3a163388dd90)
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
 </p>
