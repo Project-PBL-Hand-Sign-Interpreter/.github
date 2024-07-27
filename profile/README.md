@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5d193180-1261-43dd-bfb4-3a163388dd90)# Handsify
+# Handsify
 
 <p align="justify">     Handsify adalah proyek yang menggabungkan teknologi Machine Learning, Pemrosesan Bahasa Alami (NLP), dan Internet of Things (IoT) untuk mentranslasikan bahasa isyarat ke dalam teks, yang kemudian diubah menjadi suara. Melalui sensor IoT yang sensitif, proyek ini dapat mengidentifikasi gerakan bahasa isyarat dengan tingkat akurasi tinggi. Berkat algoritma Machine Learning dan teknik NLP, gerakan tersebut diterjemahkan menjadi teks yang dapat dibaca dengan cepat dan tepat. Teks ini kemudian diubah menjadi suara berkualitas tinggi.
 
@@ -22,6 +22,6 @@ Hi everyone! We are from Handsify. We consist of 4 people and these are my team 
 
 <p align="justify">
   ![image](https://github.com/user-attachments/assets/d1f67e94-25aa-4e94-a391-021384869b8c)
-
+  ![image](https://github.com/user-attachments/assets/5d193180-1261-43dd-bfb4-3a163388dd90)
   <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
 </p>
